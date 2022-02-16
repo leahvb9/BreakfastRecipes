@@ -1,4 +1,3 @@
-
 # Tater Tot Breakfast Casserole
 
 Tater tot breakfast casserole is easy to make and feeds a lot of people.
