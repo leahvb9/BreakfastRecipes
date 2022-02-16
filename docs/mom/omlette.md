@@ -81,5 +81,3 @@ An omelette is an easy breakfast food to make and is packed with protein. This b
 1. Remove from the pan, season again with salt and pepper to taste.
 
 2. Enjoy!
-
-{% include footer.md %}

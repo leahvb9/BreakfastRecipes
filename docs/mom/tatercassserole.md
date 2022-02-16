@@ -96,4 +96,3 @@ It is a staple in Blacksburg for game days!
 
 2.  Cut into squares and enjoy!
 
-{% include footer.md %}

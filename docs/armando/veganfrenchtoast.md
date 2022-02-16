@@ -76,4 +76,3 @@ American favorite!
 
 2. Enjoy!
 
-{% include footer.md %}

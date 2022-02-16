@@ -82,5 +82,3 @@ satiated all morning! This egg scramble is adapted to be vegan.
     Earth Balance butter to the toast.
 
 2. Enjoy!
-
-{% include footer.md %}
