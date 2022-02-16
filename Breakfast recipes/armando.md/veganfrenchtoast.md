@@ -1,7 +1,4 @@
 
-# How to make breakfast in my apartment
-This guide includes two vegan breakfast recipes you can make in my apartment!
-
 ## Vegan French Toast Recipe 
 
 Adapted from this
